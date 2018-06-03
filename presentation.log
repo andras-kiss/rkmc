@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.1.9)  22 APR 2018 13:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.1.9)  3 JUN 2018 23:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1856,10 +1856,10 @@ your preamble.
 .................................................
 (./presentation.nav)
 Package epstopdf Info: Source file: <pte_logo.eps>
-(epstopdf)                    date: 2018-04-18 10:20:06
+(epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 221360 bytes
 (epstopdf)             Output file: <pte_logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-18 11:01:21
+(epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 32256 bytes
 (epstopdf)             Command: <repstopdf --outfile=pte_logo-eps-converted-to.
 pdf pte_logo.eps>
@@ -1872,6 +1872,9 @@ File: pte_logo-eps-converted-to.pdf Graphic file (type pdf)
 <use pte_logo-eps-converted-to.pdf>
 Package pdftex.def Info: pte_logo-eps-converted-to.pdf used on input line 40.
 (pdftex.def)             Requested size: 43.02039pt x 43.02094pt.
+
+Overfull \vbox (20.01314pt too high) detected at line 40
+ []
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
@@ -1893,23 +1896,24 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./
 pte_logo-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <secm.eps>
-(epstopdf)                    date: 2018-04-18 12:08:04
-(epstopdf)                    size: 496001 bytes
-(epstopdf)             Output file: <secm-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-18 12:08:10
-(epstopdf)                    size: 543297 bytes
-(epstopdf)             Command: <repstopdf --outfile=secm-eps-converted-to.pdf 
-secm.eps>
+Package epstopdf Info: Source file: <secm_english.eps>
+(epstopdf)                    date: 2017-06-15 21:51:11
+(epstopdf)                    size: 528226 bytes
+(epstopdf)             Output file: <secm_english-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-06-03 23:42:57
+(epstopdf)                    size: 580195 bytes
+(epstopdf)             Command: <repstopdf --outfile=secm_english-eps-converted
+-to.pdf secm_english.eps>
 (epstopdf)             \includegraphics on input line 47.
 Package epstopdf Info: Output file is already uptodate.
 
-<secm-eps-converted-to.pdf, id=49, 600.2425pt x 582.175pt>
-File: secm-eps-converted-to.pdf Graphic file (type pdf)
+<secm_english-eps-converted-to.pdf, id=49, 640.3925pt x 620.3175pt>
+File: secm_english-eps-converted-to.pdf Graphic file (type pdf)
 
-<use secm-eps-converted-to.pdf>
-Package pdftex.def Info: secm-eps-converted-to.pdf used on input line 47.
-(pdftex.def)             Requested size: 184.3758pt x 178.8201pt.
+<use secm_english-eps-converted-to.pdf>
+Package pdftex.def Info: secm_english-eps-converted-to.pdf used on input line 4
+7.
+(pdftex.def)             Requested size: 184.3758pt x 178.59073pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 47.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1929,13 +1933,13 @@ thkerncmss.
 )
 [2
 
- <./secm-eps-converted-to.pdf>]
+ <./secm_english-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <koros.eps>
-(epstopdf)                    date: 2018-04-18 15:02:02
-(epstopdf)                    size: 10403360 bytes
+(epstopdf)                    date: 2018-06-03 23:44:17
+(epstopdf)                    size: 10402413 bytes
 (epstopdf)             Output file: <koros-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-18 15:02:14
-(epstopdf)                    size: 567914 bytes
+(epstopdf)                    date: 2018-06-03 23:44:27
+(epstopdf)                    size: 567572 bytes
 (epstopdf)             Command: <repstopdf --outfile=koros-eps-converted-to.pdf
  koros.eps>
 (epstopdf)             \includegraphics on input line 53.
@@ -1971,10 +1975,10 @@ File: turing.jpg Graphic file (type jpg)
 Package pdftex.def Info: turing.jpg used on input line 66.
 (pdftex.def)             Requested size: 153.64493pt x 209.18826pt.
 Package epstopdf Info: Source file: <morpho.eps>
-(epstopdf)                    date: 2018-04-18 14:04:23
+(epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 410547 bytes
 (epstopdf)             Output file: <morpho-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-18 14:04:44
+(epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 153863 bytes
 (epstopdf)             Command: <repstopdf --outfile=morpho-eps-converted-to.pd
 f morpho.eps>
@@ -1992,10 +1996,10 @@ Package pdftex.def Info: morpho-eps-converted-to.pdf used on input line 66.
 
 ]
 Package epstopdf Info: Source file: <chang.eps>
-(epstopdf)                    date: 2018-04-18 14:26:17
+(epstopdf)                    date: 2018-06-03 23:17:17
 (epstopdf)                    size: 846025 bytes
 (epstopdf)             Output file: <chang-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-18 14:26:23
+(epstopdf)                    date: 2018-06-03 23:17:17
 (epstopdf)                    size: 217483 bytes
 (epstopdf)             Command: <repstopdf --outfile=chang-eps-converted-to.pdf
  chang.eps>
@@ -2019,11 +2023,11 @@ Package pdftex.def Info: setup1.jpg used on input line 91.
 
  <./setup1.jpg>]
 Package epstopdf Info: Source file: <ferroin.eps>
-(epstopdf)                    date: 2018-04-22 12:46:43
-(epstopdf)                    size: 17334 bytes
+(epstopdf)                    date: 2018-06-03 23:40:02
+(epstopdf)                    size: 16208 bytes
 (epstopdf)             Output file: <ferroin-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-22 12:48:01
-(epstopdf)                    size: 9026 bytes
+(epstopdf)                    date: 2018-06-03 23:40:22
+(epstopdf)                    size: 8417 bytes
 (epstopdf)             Command: <repstopdf --outfile=ferroin-eps-converted-to.p
 df ferroin.eps>
 (epstopdf)             \includegraphics on input line 121.
@@ -2039,10 +2043,10 @@ Package pdftex.def Info: ferroin-eps-converted-to.pdf used on input line 121.
 
  <./ferroin-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pontszerumeres.eps>
-(epstopdf)                    date: 2018-04-18 16:02:55
+(epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 121386 bytes
 (epstopdf)             Output file: <pontszerumeres-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-18 16:03:10
+(epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 128567 bytes
 (epstopdf)             Command: <repstopdf --outfile=pontszerumeres-eps-convert
 ed-to.pdf pontszerumeres.eps>
@@ -2069,11 +2073,11 @@ Package pdftex.def Info: setup_photo.jpg used on input line 138.
 
  <./setup_photo.jpg>]
 Package epstopdf Info: Source file: <szigeteles1.eps>
-(epstopdf)                    date: 2018-04-21 12:17:53
-(epstopdf)                    size: 508590 bytes
+(epstopdf)                    date: 2018-06-03 23:45:23
+(epstopdf)                    size: 511935 bytes
 (epstopdf)             Output file: <szigeteles1-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-21 12:18:06
-(epstopdf)                    size: 371463 bytes
+(epstopdf)                    date: 2018-06-03 23:47:30
+(epstopdf)                    size: 368498 bytes
 (epstopdf)             Command: <repstopdf --outfile=szigeteles1-eps-converted-
 to.pdf szigeteles1.eps>
 (epstopdf)             \includegraphics on input line 145.
@@ -2090,11 +2094,11 @@ Package pdftex.def Info: szigeteles1-eps-converted-to.pdf used on input line 14
 
  <./szigeteles1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <szigeteles2.eps>
-(epstopdf)                    date: 2018-04-21 12:18:01
-(epstopdf)                    size: 407989 bytes
+(epstopdf)                    date: 2018-06-03 23:46:04
+(epstopdf)                    size: 355212 bytes
 (epstopdf)             Output file: <szigeteles2-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-21 12:18:06
-(epstopdf)                    size: 234336 bytes
+(epstopdf)                    date: 2018-06-03 23:47:30
+(epstopdf)                    size: 206589 bytes
 (epstopdf)             Command: <repstopdf --outfile=szigeteles2-eps-converted-
 to.pdf szigeteles2.eps>
 (epstopdf)             \includegraphics on input line 152.
@@ -2110,11 +2114,11 @@ Package pdftex.def Info: szigeteles2-eps-converted-to.pdf used on input line 15
 
  <./szigeteles2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <szigeteles3.eps>
-(epstopdf)                    date: 2018-04-21 12:15:42
-(epstopdf)                    size: 421285 bytes
+(epstopdf)                    date: 2018-06-03 23:46:46
+(epstopdf)                    size: 419243 bytes
 (epstopdf)             Output file: <szigeteles3-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-21 12:16:11
-(epstopdf)                    size: 240732 bytes
+(epstopdf)                    date: 2018-06-03 23:47:31
+(epstopdf)                    size: 238463 bytes
 (epstopdf)             Command: <repstopdf --outfile=szigeteles3-eps-converted-
 to.pdf szigeteles3.eps>
 (epstopdf)             \includegraphics on input line 159.
@@ -2130,11 +2134,11 @@ Package pdftex.def Info: szigeteles3-eps-converted-to.pdf used on input line 15
 
  <./szigeteles3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <szigeteles4.eps>
-(epstopdf)                    date: 2018-04-21 12:15:49
-(epstopdf)                    size: 341382 bytes
+(epstopdf)                    date: 2018-06-03 23:47:25
+(epstopdf)                    size: 340764 bytes
 (epstopdf)             Output file: <szigeteles4-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-21 12:16:12
-(epstopdf)                    size: 215549 bytes
+(epstopdf)                    date: 2018-06-03 23:47:32
+(epstopdf)                    size: 214199 bytes
 (epstopdf)             Command: <repstopdf --outfile=szigeteles4-eps-converted-
 to.pdf szigeteles4.eps>
 (epstopdf)             \includegraphics on input line 166.
@@ -2150,10 +2154,10 @@ Package pdftex.def Info: szigeteles4-eps-converted-to.pdf used on input line 16
 
  <./szigeteles4-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <setup.eps>
-(epstopdf)                    date: 2018-01-09 15:46:32
+(epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 3368719 bytes
 (epstopdf)             Output file: <setup-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-18 16:21:28
+(epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 358857 bytes
 (epstopdf)             Command: <repstopdf --outfile=setup-eps-converted-to.pdf
  setup.eps>
@@ -2177,10 +2181,10 @@ Package pdftex.def Info: grabs.png used on input line 180.
 
  <./grabs.png>]
 Package epstopdf Info: Source file: <spacetime_ill.eps>
-(epstopdf)                    date: 2018-04-22 13:13:27
+(epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 5667364 bytes
 (epstopdf)             Output file: <spacetime_ill-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-22 13:13:37
+(epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 565741 bytes
 (epstopdf)             Command: <repstopdf --outfile=spacetime_ill-eps-converte
 d-to.pdf spacetime_ill.eps>
@@ -2197,10 +2201,10 @@ Package pdftex.def Info: spacetime_ill-eps-converted-to.pdf used on input line
 
  <./spacetime_ill-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <spacetime.eps>
-(epstopdf)                    date: 2018-01-15 22:11:17
+(epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 11608916 bytes
 (epstopdf)             Output file: <spacetime-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-18 16:24:44
+(epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 422983 bytes
 (epstopdf)             Command: <repstopdf --outfile=spacetime-eps-converted-to
 .pdf spacetime.eps>
@@ -2244,11 +2248,11 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 252.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 252.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 252.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 252.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 253.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 253.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -2261,10 +2265,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 42770 strings out of 493013
- 978904 string characters out of 6135683
- 1212493 words of memory out of 5000000
- 45476 multiletter control sequences out of 15000+600000
+ 42763 strings out of 493013
+ 978887 string characters out of 6135683
+ 1212751 words of memory out of 5000000
+ 45469 multiletter control sequences out of 15000+600000
  20466 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,15n,98p,10354b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2279,7 +2283,7 @@ fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts
 ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/euler/eurm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/euler/eurm7.pfb>
-Output written on presentation.pdf (23 pages, 14742337 bytes).
+Output written on presentation.pdf (23 pages, 14743839 bytes).
 PDF statistics:
  813 PDF objects out of 1000 (max. 8388607)
  669 compressed objects within 7 object streams

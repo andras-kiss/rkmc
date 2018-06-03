@@ -65,9 +65,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="248.80348"
-     inkscape:cy="235.35999"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="255.43022"
+     inkscape:cy="248.43475"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -88,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -153,14 +153,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.38212919px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44851074"
-       x="86.947716"
+       x="85.889381"
        y="85.658775"
        id="text6302"><tspan
          sodipodi:role="line"
          id="tspan6300"
-         x="86.947716"
+         x="85.889381"
          y="85.658775"
-         style="stroke-width:0.44851074">üveg</tspan></text>
+         style="stroke-width:0.44851074">glass</tspan></text>
     <g
        transform="matrix(0.70296159,0,0,-0.70296159,93.394905,176.55029)"
        inkscape:label="ink_ext_XXXXXX"
@@ -204,8 +204,8 @@
             <tspan
                id="tspan263"
                sodipodi:role="line"
-               y="0"
-               x="0 4.061409 7.9821081 11.314383 14.67224 17.179441 21.10014 24.477127 28.397825">pásztázás</tspan>
+               x="0"
+               y="0">scanning</tspan>
           </text>
         </g>
       </g>
@@ -221,6 +221,6 @@
          id="tspan6296-5"
          x="-116.37202"
          y="80.006371"
-         style="stroke-width:0.52034181">33 μm szénszál</tspan></text>
+         style="stroke-width:0.52034181">33 μm carbon fiberl</tspan></text>
   </g>
 </svg>

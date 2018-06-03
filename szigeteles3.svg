@@ -61,11 +61,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.69999999"
-     inkscape:cx="558.22699"
-     inkscape:cy="275.87396"
+     inkscape:zoom="0.98994948"
+     inkscape:cx="459.1626"
+     inkscape:cy="280.84822"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g261"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="731"
@@ -163,8 +163,8 @@
             <tspan
                id="tspan263"
                sodipodi:role="line"
-               y="0"
-               x="0 4.061409 7.9821081 11.314383 14.67224 17.179441 21.10014 24.477127 28.397825">pásztázás</tspan>
+               x="0"
+               y="0">scanning</tspan>
           </text>
         </g>
       </g>
@@ -172,14 +172,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.244102px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52034181"
-       x="-110.09762"
+       x="-115.38929"
        y="79.477211"
        id="text6298-3"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan6296-5"
-         x="-110.09762"
+         x="-115.38929"
          y="79.477211"
-         style="stroke-width:0.52034181">33 μm szénszál</tspan></text>
+         style="stroke-width:0.52034181">33 μm carbon fiber</tspan></text>
   </g>
 </svg>

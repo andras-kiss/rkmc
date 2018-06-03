@@ -76,11 +76,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="349.34965"
-     inkscape:cy="325.57542"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="707.46132"
+     inkscape:cy="196.48038"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g261"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="731"
@@ -99,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -172,18 +172,18 @@
          id="tspan6296"
          x="-115.76623"
          y="80.91433"
-         style="stroke-width:0.52034181">33 μm szénszál</tspan></text>
+         style="stroke-width:0.52034181">33 μm carbon fiber</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.38212919px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44851074"
-       x="86.947716"
+       x="85.360214"
        y="85.658775"
        id="text6302"><tspan
          sodipodi:role="line"
          id="tspan6300"
-         x="86.947716"
+         x="85.360214"
          y="85.658775"
-         style="stroke-width:0.44851074">üveg</tspan></text>
+         style="stroke-width:0.44851074">glass</tspan></text>
     <g
        transform="matrix(0.53213552,0,0,-0.53213552,98.563373,172.44309)"
        inkscape:label="ink_ext_XXXXXX"
@@ -227,8 +227,8 @@
             <tspan
                id="tspan263"
                sodipodi:role="line"
-               y="0"
-               x="0 4.061409 7.9821081 11.314383 14.67224 17.179441 21.10014 24.477127 28.397825">pásztázás</tspan>
+               x="0"
+               y="0">scanning</tspan>
           </text>
         </g>
       </g>

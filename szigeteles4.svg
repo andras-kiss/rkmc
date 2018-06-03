@@ -61,11 +61,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37210462"
-     inkscape:cx="131.62454"
-     inkscape:cy="238.37123"
+     inkscape:zoom="1.0524708"
+     inkscape:cx="320.016"
+     inkscape:cy="277.08078"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g261"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="731"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -159,12 +159,14 @@
           <text
              id="text265"
              style="font-variant:normal;font-weight:normal;font-size:6.3959198px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="matrix(1,0,0,-1,42.3859,32.8379)">
+             transform="scale(1,-1)"
+             x="45.593067"
+             y="-32.837898">
             <tspan
                id="tspan263"
                sodipodi:role="line"
-               y="0"
-               x="0 4.061409 7.9821081 11.314383 14.67224 17.179441 21.10014 24.477127 28.397825">pásztázás</tspan>
+               x="45.593067"
+               y="-32.837898">scanning</tspan>
           </text>
         </g>
       </g>
@@ -172,15 +174,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.244102px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52034181"
-       x="-110.09762"
+       x="-113.80178"
        y="79.477211"
        id="text6298-3"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan6296-5"
-         x="-110.09762"
+         x="-113.80178"
          y="79.477211"
-         style="stroke-width:0.52034181">7 μm szénszál</tspan></text>
+         style="stroke-width:0.52034181">7 μm scarbon fiber</tspan></text>
     <g
        id="g1252"
        transform="matrix(1.519802,0,0,1.519802,-173.12492,-76.106041)">
