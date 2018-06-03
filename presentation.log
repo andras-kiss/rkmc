@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.1.9)  3 JUN 2018 23:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.1.9)  4 JUN 2018 00:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2181,15 +2181,20 @@ Package pdftex.def Info: grabs.png used on input line 180.
 
  <./grabs.png>]
 Package epstopdf Info: Source file: <spacetime_ill.eps>
-(epstopdf)                    date: 2018-06-03 23:17:18
-(epstopdf)                    size: 5667364 bytes
+(epstopdf)                    date: 2018-06-04 00:04:54
+(epstopdf)                    size: 5662315 bytes
 (epstopdf)             Output file: <spacetime_ill-eps-converted-to.pdf>
 (epstopdf)                    date: 2018-06-03 23:17:18
 (epstopdf)                    size: 565741 bytes
 (epstopdf)             Command: <repstopdf --outfile=spacetime_ill-eps-converte
 d-to.pdf spacetime_ill.eps>
 (epstopdf)             \includegraphics on input line 187.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=spacetime_ill-eps-converted-to.pdf spacetime_ill.
+eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <spacetime_ill-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-06-04 00:05:06
+(epstopdf)                    size: 565560 bytes.
  <spacetime_ill-eps-converted-to.pdf, id=584, 3884.5125pt x 2770.35pt>
 File: spacetime_ill-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2267,7 +2272,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  42763 strings out of 493013
  978887 string characters out of 6135683
- 1212751 words of memory out of 5000000
+ 1212749 words of memory out of 5000000
  45469 multiletter control sequences out of 15000+600000
  20466 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2283,7 +2288,7 @@ fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts
 ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/euler/eurm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/euler/eurm7.pfb>
-Output written on presentation.pdf (23 pages, 14743839 bytes).
+Output written on presentation.pdf (23 pages, 14743841 bytes).
 PDF statistics:
  813 PDF objects out of 1000 (max. 8388607)
  669 compressed objects within 7 object streams
