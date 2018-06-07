@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.1.9)  4 JUN 2018 00:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.1.10)  7 JUN 2018 21:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1641,33 +1641,33 @@ stry (CN)
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 25.
+(hyperref)                removing `\\' on input line 26.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 25.
+(hyperref)                removing `\hfill' on input line 26.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 25.
+(hyperref)                removing `\\' on input line 26.
 
 (./presentation.aux)
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1735,7 +1735,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box80
-Package hyperref Info: Link coloring OFF on input line 39.
+Package hyperref Info: Link coloring OFF on input line 40.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1745,66 +1745,66 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count358
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
 
 (./presentation.out) (./presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 39.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 39.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 40.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 39.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 39.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 39.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 39.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 39.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 39.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 39.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 39.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 39.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 39.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 40.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 39.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 39.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 39.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 39.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 39.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 39.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 39.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 39.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 39.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 39.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 40.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 40.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 3
-9.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 4
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-39.
+40.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 39.
+ut line 40.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1830,16 +1830,16 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 39.
-LaTeX Info: Redefining \celsius on input line 39.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 39.
+LaTeX Info: Redefining \includegraphics on input line 40.
+LaTeX Info: Redefining \celsius on input line 40.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 40.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 39.
-Package gensymb Info: Using \Omega for \ohm on input line 39.
+LaTeX Info: Redefining \ohm on input line 40.
+Package gensymb Info: Using \Omega for \ohm on input line 40.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -1847,38 +1847,38 @@ Package gensymb Warning: Not defining \micro.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.14} into 
 your preamble.
- on input line 39.
+ on input line 40.
 
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `upgreek' on line 39.
+. Activating mapping `upgreek' on line 40.
 .................................................
 (./presentation.nav)
 Package epstopdf Info: Source file: <pte_logo.eps>
-(epstopdf)                    date: 2018-06-03 23:17:18
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 221360 bytes
 (epstopdf)             Output file: <pte_logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:17:18
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 32256 bytes
 (epstopdf)             Command: <repstopdf --outfile=pte_logo-eps-converted-to.
 pdf pte_logo.eps>
-(epstopdf)             \includegraphics on input line 40.
+(epstopdf)             \includegraphics on input line 41.
 Package epstopdf Info: Output file is already uptodate.
 
 <pte_logo-eps-converted-to.pdf, id=15, 159.59625pt x 159.59625pt>
 File: pte_logo-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pte_logo-eps-converted-to.pdf>
-Package pdftex.def Info: pte_logo-eps-converted-to.pdf used on input line 40.
+Package pdftex.def Info: pte_logo-eps-converted-to.pdf used on input line 41.
 (pdftex.def)             Requested size: 43.02039pt x 43.02094pt.
 
-Overfull \vbox (20.01314pt too high) detected at line 40
+Overfull \vbox (20.01314pt too high) detected at line 41
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 40.
+(Font)              size <5> substituted on input line 41.
 
 [1
 Non-PDF special ignored!
@@ -1897,14 +1897,14 @@ Non-PDF special ignored!
 Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./
 pte_logo-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <secm_english.eps>
-(epstopdf)                    date: 2017-06-15 21:51:11
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 528226 bytes
 (epstopdf)             Output file: <secm_english-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:42:57
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 580195 bytes
 (epstopdf)             Command: <repstopdf --outfile=secm_english-eps-converted
 -to.pdf secm_english.eps>
-(epstopdf)             \includegraphics on input line 47.
+(epstopdf)             \includegraphics on input line 48.
 Package epstopdf Info: Output file is already uptodate.
 
 <secm_english-eps-converted-to.pdf, id=49, 640.3925pt x 620.3175pt>
@@ -1912,20 +1912,20 @@ File: secm_english-eps-converted-to.pdf Graphic file (type pdf)
 
 <use secm_english-eps-converted-to.pdf>
 Package pdftex.def Info: secm_english-eps-converted-to.pdf used on input line 4
-7.
+8.
 (pdftex.def)             Requested size: 184.3758pt x 178.59073pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 47.
+LaTeX Font Info:    Try loading font information for U+msa on input line 48.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 47.
+LaTeX Font Info:    Try loading font information for U+msb on input line 48.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 47.
+line 48.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1935,21 +1935,21 @@ thkerncmss.
 
  <./secm_english-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <koros.eps>
-(epstopdf)                    date: 2018-06-03 23:44:17
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 10402413 bytes
 (epstopdf)             Output file: <koros-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:44:27
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 567572 bytes
 (epstopdf)             Command: <repstopdf --outfile=koros-eps-converted-to.pdf
  koros.eps>
-(epstopdf)             \includegraphics on input line 53.
+(epstopdf)             \includegraphics on input line 54.
 Package epstopdf Info: Output file is already uptodate.
 
 <koros-eps-converted-to.pdf, id=78, 717.68124pt x 498.86375pt>
 File: koros-eps-converted-to.pdf Graphic file (type pdf)
 
 <use koros-eps-converted-to.pdf>
-Package pdftex.def Info: koros-eps-converted-to.pdf used on input line 53.
+Package pdftex.def Info: koros-eps-converted-to.pdf used on input line 54.
 (pdftex.def)             Requested size: 245.83282pt x 170.87503pt.
  [3
 
@@ -1957,13 +1957,13 @@ Package pdftex.def Info: koros-eps-converted-to.pdf used on input line 53.
 <zygote.jpeg, id=118, 249.93375pt x 241.90375pt>
 File: zygote.jpeg Graphic file (type jpg)
  <use zygote.jpeg>
-Package pdftex.def Info: zygote.jpeg used on input line 59.
+Package pdftex.def Info: zygote.jpeg used on input line 60.
 (pdftex.def)             Requested size: 153.64493pt x 148.7127pt.
 
 <davinci.jpg, id=119, 551.4201pt x 755.4624pt>
 File: davinci.jpg Graphic file (type jpg)
  <use davinci.jpg>
-Package pdftex.def Info: davinci.jpg used on input line 59.
+Package pdftex.def Info: davinci.jpg used on input line 60.
 (pdftex.def)             Requested size: 153.64493pt x 210.50209pt.
  [4
 
@@ -1972,23 +1972,23 @@ t>
 File: turing.jpg Graphic file (type jpg)
 
 <use turing.jpg>
-Package pdftex.def Info: turing.jpg used on input line 66.
+Package pdftex.def Info: turing.jpg used on input line 67.
 (pdftex.def)             Requested size: 153.64493pt x 209.18826pt.
 Package epstopdf Info: Source file: <morpho.eps>
-(epstopdf)                    date: 2018-06-03 23:17:18
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 410547 bytes
 (epstopdf)             Output file: <morpho-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:17:18
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 153863 bytes
 (epstopdf)             Command: <repstopdf --outfile=morpho-eps-converted-to.pd
 f morpho.eps>
-(epstopdf)             \includegraphics on input line 66.
+(epstopdf)             \includegraphics on input line 67.
 Package epstopdf Info: Output file is already uptodate.
  <morpho-eps-converted-to.pdf, id=147, 614.295pt x 794.97pt>
 File: morpho-eps-converted-to.pdf Graphic file (type pdf)
 
 <use morpho-eps-converted-to.pdf>
-Package pdftex.def Info: morpho-eps-converted-to.pdf used on input line 66.
+Package pdftex.def Info: morpho-eps-converted-to.pdf used on input line 67.
 (pdftex.def)             Requested size: 153.64493pt x 198.82692pt.
  [5
 
@@ -1996,20 +1996,20 @@ Package pdftex.def Info: morpho-eps-converted-to.pdf used on input line 66.
 
 ]
 Package epstopdf Info: Source file: <chang.eps>
-(epstopdf)                    date: 2018-06-03 23:17:17
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 846025 bytes
 (epstopdf)             Output file: <chang-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:17:17
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 217483 bytes
 (epstopdf)             Command: <repstopdf --outfile=chang-eps-converted-to.pdf
  chang.eps>
-(epstopdf)             \includegraphics on input line 84.
+(epstopdf)             \includegraphics on input line 85.
 Package epstopdf Info: Output file is already uptodate.
  <chang-eps-converted-to.pdf, id=202, 518.93875pt x 364.36125pt>
 File: chang-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chang-eps-converted-to.pdf>
-Package pdftex.def Info: chang-eps-converted-to.pdf used on input line 84.
+Package pdftex.def Info: chang-eps-converted-to.pdf used on input line 85.
 (pdftex.def)             Requested size: 245.83282pt x 172.60637pt.
  [7
 
@@ -2017,231 +2017,240 @@ Package pdftex.def Info: chang-eps-converted-to.pdf used on input line 84.
 <setup1.jpg, id=261, 4175.6pt x 2344.76pt>
 File: setup1.jpg Graphic file (type jpg)
  <use setup1.jpg>
-Package pdftex.def Info: setup1.jpg used on input line 91.
+Package pdftex.def Info: setup1.jpg used on input line 92.
 (pdftex.def)             Requested size: 245.83282pt x 138.03195pt.
  [8
 
  <./setup1.jpg>]
 Package epstopdf Info: Source file: <ferroin.eps>
-(epstopdf)                    date: 2018-06-03 23:40:02
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 16208 bytes
 (epstopdf)             Output file: <ferroin-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:40:22
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 8417 bytes
 (epstopdf)             Command: <repstopdf --outfile=ferroin-eps-converted-to.p
 df ferroin.eps>
-(epstopdf)             \includegraphics on input line 121.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
 <ferroin-eps-converted-to.pdf, id=289, 186.6975pt x 229.85875pt>
 File: ferroin-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ferroin-eps-converted-to.pdf>
-Package pdftex.def Info: ferroin-eps-converted-to.pdf used on input line 121.
+Package pdftex.def Info: ferroin-eps-converted-to.pdf used on input line 122.
 (pdftex.def)             Requested size: 88.49959pt x 108.95955pt.
  [9
 
  <./ferroin-eps-converted-to.pdf>]
+
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 138.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 138.
+
+
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 138.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 138.
+
+[10
+
+]
 Package epstopdf Info: Source file: <pontszerumeres.eps>
-(epstopdf)                    date: 2018-06-03 23:17:18
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 121386 bytes
 (epstopdf)             Output file: <pontszerumeres-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:17:18
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 128567 bytes
 (epstopdf)             Command: <repstopdf --outfile=pontszerumeres-eps-convert
 ed-to.pdf pontszerumeres.eps>
-(epstopdf)             \includegraphics on input line 129.
+(epstopdf)             \includegraphics on input line 146.
 Package epstopdf Info: Output file is already uptodate.
-
-<pontszerumeres-eps-converted-to.pdf, id=324, 616.3025pt x 499.8675pt>
+ <pontszerumeres-eps-converted-to.pdf, id=353, 616.3025pt x 499.8675pt>
 File: pontszerumeres-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pontszerumeres-eps-converted-to.pdf>
 Package pdftex.def Info: pontszerumeres-eps-converted-to.pdf used on input line
- 129.
+ 146.
 (pdftex.def)             Requested size: 245.83282pt x 199.38666pt.
- [10
+ [11
 
- <./pontszerumeres-eps-converted-to.pdf>] <setup_photo.jpg, id=353, 2442.12375p
+ <./pontszerumeres-eps-converted-to.pdf>] <setup_photo.jpg, id=382, 2442.12375p
 t x 1809.76125pt>
 File: setup_photo.jpg Graphic file (type jpg)
 
 <use setup_photo.jpg>
-Package pdftex.def Info: setup_photo.jpg used on input line 138.
+Package pdftex.def Info: setup_photo.jpg used on input line 155.
 (pdftex.def)             Requested size: 245.83282pt x 182.17415pt.
- [11
+ [12
 
  <./setup_photo.jpg>]
 Package epstopdf Info: Source file: <szigeteles1.eps>
-(epstopdf)                    date: 2018-06-03 23:45:23
+(epstopdf)                    date: 2018-06-04 23:44:51
 (epstopdf)                    size: 511935 bytes
 (epstopdf)             Output file: <szigeteles1-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:47:30
+(epstopdf)                    date: 2018-06-04 23:44:51
 (epstopdf)                    size: 368498 bytes
 (epstopdf)             Command: <repstopdf --outfile=szigeteles1-eps-converted-
 to.pdf szigeteles1.eps>
-(epstopdf)             \includegraphics on input line 145.
+(epstopdf)             \includegraphics on input line 162.
 Package epstopdf Info: Output file is already uptodate.
 
-<szigeteles1-eps-converted-to.pdf, id=379, 378.41376pt x 368.37625pt>
+<szigeteles1-eps-converted-to.pdf, id=409, 378.41376pt x 368.37625pt>
 File: szigeteles1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use szigeteles1-eps-converted-to.pdf>
-Package pdftex.def Info: szigeteles1-eps-converted-to.pdf used on input line 14
-5.
+Package pdftex.def Info: szigeteles1-eps-converted-to.pdf used on input line 16
+2.
 (pdftex.def)             Requested size: 184.3758pt x 179.48291pt.
- [12
+ [13
 
  <./szigeteles1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <szigeteles2.eps>
-(epstopdf)                    date: 2018-06-03 23:46:04
+(epstopdf)                    date: 2018-06-04 23:44:51
 (epstopdf)                    size: 355212 bytes
 (epstopdf)             Output file: <szigeteles2-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:47:30
+(epstopdf)                    date: 2018-06-04 23:44:51
 (epstopdf)                    size: 206589 bytes
 (epstopdf)             Command: <repstopdf --outfile=szigeteles2-eps-converted-
 to.pdf szigeteles2.eps>
-(epstopdf)             \includegraphics on input line 152.
+(epstopdf)             \includegraphics on input line 169.
 Package epstopdf Info: Output file is already uptodate.
- <szigeteles2-eps-converted-to.pdf, id=413, 378.41376pt x 347.2975pt>
+ <szigeteles2-eps-converted-to.pdf, id=443, 378.41376pt x 347.2975pt>
 File: szigeteles2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use szigeteles2-eps-converted-to.pdf>
-Package pdftex.def Info: szigeteles2-eps-converted-to.pdf used on input line 15
-2.
+Package pdftex.def Info: szigeteles2-eps-converted-to.pdf used on input line 16
+9.
 (pdftex.def)             Requested size: 184.3758pt x 169.21278pt.
- [13
+ [14
 
  <./szigeteles2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <szigeteles3.eps>
-(epstopdf)                    date: 2018-06-03 23:46:46
+(epstopdf)                    date: 2018-06-04 23:44:51
 (epstopdf)                    size: 419243 bytes
 (epstopdf)             Output file: <szigeteles3-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:47:31
+(epstopdf)                    date: 2018-06-04 23:44:51
 (epstopdf)                    size: 238463 bytes
 (epstopdf)             Command: <repstopdf --outfile=szigeteles3-eps-converted-
 to.pdf szigeteles3.eps>
-(epstopdf)             \includegraphics on input line 159.
+(epstopdf)             \includegraphics on input line 176.
 Package epstopdf Info: Output file is already uptodate.
- <szigeteles3-eps-converted-to.pdf, id=447, 378.41376pt x 367.3725pt>
+ <szigeteles3-eps-converted-to.pdf, id=476, 378.41376pt x 367.3725pt>
 File: szigeteles3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use szigeteles3-eps-converted-to.pdf>
-Package pdftex.def Info: szigeteles3-eps-converted-to.pdf used on input line 15
-9.
-(pdftex.def)             Requested size: 184.3758pt x 178.99385pt.
- [14
-
- <./szigeteles3-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <szigeteles4.eps>
-(epstopdf)                    date: 2018-06-03 23:47:25
-(epstopdf)                    size: 340764 bytes
-(epstopdf)             Output file: <szigeteles4-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:47:32
-(epstopdf)                    size: 214199 bytes
-(epstopdf)             Command: <repstopdf --outfile=szigeteles4-eps-converted-
-to.pdf szigeteles4.eps>
-(epstopdf)             \includegraphics on input line 166.
-Package epstopdf Info: Output file is already uptodate.
- <szigeteles4-eps-converted-to.pdf, id=481, 378.41376pt x 367.3725pt>
-File: szigeteles4-eps-converted-to.pdf Graphic file (type pdf)
-
-<use szigeteles4-eps-converted-to.pdf>
-Package pdftex.def Info: szigeteles4-eps-converted-to.pdf used on input line 16
+Package pdftex.def Info: szigeteles3-eps-converted-to.pdf used on input line 17
 6.
 (pdftex.def)             Requested size: 184.3758pt x 178.99385pt.
  [15
 
+ <./szigeteles3-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <szigeteles4.eps>
+(epstopdf)                    date: 2018-06-04 23:44:51
+(epstopdf)                    size: 340764 bytes
+(epstopdf)             Output file: <szigeteles4-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-06-04 23:44:51
+(epstopdf)                    size: 214199 bytes
+(epstopdf)             Command: <repstopdf --outfile=szigeteles4-eps-converted-
+to.pdf szigeteles4.eps>
+(epstopdf)             \includegraphics on input line 183.
+Package epstopdf Info: Output file is already uptodate.
+ <szigeteles4-eps-converted-to.pdf, id=511, 378.41376pt x 367.3725pt>
+File: szigeteles4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use szigeteles4-eps-converted-to.pdf>
+Package pdftex.def Info: szigeteles4-eps-converted-to.pdf used on input line 18
+3.
+(pdftex.def)             Requested size: 184.3758pt x 178.99385pt.
+ [16
+
  <./szigeteles4-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <setup.eps>
-(epstopdf)                    date: 2018-06-03 23:17:18
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 3368719 bytes
 (epstopdf)             Output file: <setup-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:17:18
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 358857 bytes
 (epstopdf)             Command: <repstopdf --outfile=setup-eps-converted-to.pdf
  setup.eps>
-(epstopdf)             \includegraphics on input line 173.
+(epstopdf)             \includegraphics on input line 190.
 Package epstopdf Info: Output file is already uptodate.
- <setup-eps-converted-to.pdf, id=515, 420.57124pt x 299.1175pt>
+ <setup-eps-converted-to.pdf, id=544, 420.57124pt x 299.1175pt>
 File: setup-eps-converted-to.pdf Graphic file (type pdf)
 
 <use setup-eps-converted-to.pdf>
-Package pdftex.def Info: setup-eps-converted-to.pdf used on input line 173.
+Package pdftex.def Info: setup-eps-converted-to.pdf used on input line 190.
 (pdftex.def)             Requested size: 245.83282pt x 174.83925pt.
- [16
+ [17
 
  <./setup-eps-converted-to.pdf>]
-<grabs.png, id=556, 178.18294pt x 149.88014pt>
+<grabs.png, id=585, 178.18294pt x 149.88014pt>
 File: grabs.png Graphic file (type png)
  <use grabs.png>
-Package pdftex.def Info: grabs.png used on input line 180.
+Package pdftex.def Info: grabs.png used on input line 197.
 (pdftex.def)             Requested size: 184.3758pt x 155.09636pt.
- [17
+ [18
 
  <./grabs.png>]
 Package epstopdf Info: Source file: <spacetime_ill.eps>
-(epstopdf)                    date: 2018-06-04 00:04:54
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 5662315 bytes
 (epstopdf)             Output file: <spacetime_ill-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:17:18
-(epstopdf)                    size: 565741 bytes
+(epstopdf)                    date: 2018-06-04 23:44:50
+(epstopdf)                    size: 565560 bytes
 (epstopdf)             Command: <repstopdf --outfile=spacetime_ill-eps-converte
 d-to.pdf spacetime_ill.eps>
-(epstopdf)             \includegraphics on input line 187.
-runsystem(repstopdf --outfile=spacetime_ill-eps-converted-to.pdf spacetime_ill.
-eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <spacetime_ill-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-04 00:05:06
-(epstopdf)                    size: 565560 bytes.
- <spacetime_ill-eps-converted-to.pdf, id=584, 3884.5125pt x 2770.35pt>
+(epstopdf)             \includegraphics on input line 204.
+Package epstopdf Info: Output file is already uptodate.
+ <spacetime_ill-eps-converted-to.pdf, id=613, 3884.5125pt x 2770.35pt>
 File: spacetime_ill-eps-converted-to.pdf Graphic file (type pdf)
 
 <use spacetime_ill-eps-converted-to.pdf>
 Package pdftex.def Info: spacetime_ill-eps-converted-to.pdf used on input line 
-187.
+204.
 (pdftex.def)             Requested size: 245.83282pt x 175.30232pt.
- [18
+ [19
 
  <./spacetime_ill-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <spacetime.eps>
-(epstopdf)                    date: 2018-06-03 23:17:18
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 11608916 bytes
 (epstopdf)             Output file: <spacetime-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-03 23:17:18
+(epstopdf)                    date: 2018-06-04 23:44:50
 (epstopdf)                    size: 422983 bytes
 (epstopdf)             Command: <repstopdf --outfile=spacetime-eps-converted-to
 .pdf spacetime.eps>
-(epstopdf)             \includegraphics on input line 194.
+(epstopdf)             \includegraphics on input line 211.
 Package epstopdf Info: Output file is already uptodate.
- <spacetime-eps-converted-to.pdf, id=626, 505.89pt x 722.7pt>
+ <spacetime-eps-converted-to.pdf, id=657, 505.89pt x 722.7pt>
 File: spacetime-eps-converted-to.pdf Graphic file (type pdf)
 
 <use spacetime-eps-converted-to.pdf>
-Package pdftex.def Info: spacetime-eps-converted-to.pdf used on input line 194.
+Package pdftex.def Info: spacetime-eps-converted-to.pdf used on input line 211.
 
 (pdftex.def)             Requested size: 153.64493pt x 154.77713pt.
- [19
+ [20
 
  <./spacetime-eps-converted-to.pdf>]
-[20
+[21
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 234
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 251
 .
-LaTeX Font Info:    No file OMScmss.fd. on input line 234.
+LaTeX Font Info:    No file OMScmss.fd. on input line 251.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 234.
+(Font)              for symbol `textbullet' on input line 251.
 
-[21
-
-] [22
+[22
 
 ] [23
+
+] [24
 
 ]
 \tf@nav=\write6
@@ -2253,11 +2262,11 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 253.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 253.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 270.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 270.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -2270,28 +2279,32 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 42763 strings out of 493013
- 978887 string characters out of 6135683
- 1212749 words of memory out of 5000000
- 45469 multiletter control sequences out of 15000+600000
- 20466 words of font info for 74 fonts, out of 8000000 for 9000
+ 42779 strings out of 493013
+ 979093 string characters out of 6135682
+ 1237243 words of memory out of 5000000
+ 45479 multiletter control sequences out of 15000+600000
+ 21965 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,15n,98p,10354b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,20n,98p,10354b,1311s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/euler/eurm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/euler/eurm7.pfb>
-Output written on presentation.pdf (23 pages, 14743841 bytes).
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb>
+Output written on presentation.pdf (24 pages, 14787010 bytes).
 PDF statistics:
- 813 PDF objects out of 1000 (max. 8388607)
- 669 compressed objects within 7 object streams
- 48 named destinations out of 1000 (max. 500000)
+ 860 PDF objects out of 1000 (max. 8388607)
+ 709 compressed objects within 8 object streams
+ 50 named destinations out of 1000 (max. 500000)
  143 words of extra memory for PDF output out of 10000 (max. 10000000)
 

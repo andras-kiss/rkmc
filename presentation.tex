@@ -14,6 +14,7 @@
 \usepackage{tikz}
 \usepgfplotslibrary{external}
 \tikzexternalize
+\usepackage{xcolor}
 \usepackage[version=3]{mhchem}
 
 \normalfont
@@ -31,7 +32,7 @@
   \hfill \\
 
   \includegraphics[width=0.14\textwidth]{pte_logo.eps}\\
-  June 6--9, 2018 / Budapest Hungary
+  June 6--9, 2018 / Budapest, Hungary
 }
 
 \date[]
@@ -92,7 +93,7 @@ Endre Kőrös -- 1972 (Oscillating in Chemical Systems. II.)
 
 
 \begin{frame}
-\frametitle{Stanionary measurement}
+\frametitle{Stationary measurement}
 \framesubtitle{The measured parameters}
 \begin{columns}[T] % align columns
 \begin{column}{.48\textwidth}
@@ -118,6 +119,22 @@ Ferroin redox--indicator
 Nernst--equation
 \end{column}%
 \end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{Oscillation of the \textcolor{red}{[Fe$^{2+}$]}/\textcolor{blue}{[Fe$^{3+}$]} ratio}
+\framesubtitle{Explained by the FKN--mechanism}
+\tiny
+\begin{align}
+\tiny
+\ce {BrO3^- + Br- + CH2(COOH)2 + 3 H+ &-> 3 BrCH(COOH)2 + 3 H2O}\\
+\ce {BrO3^- + \textcolor{red}{\ce {Fe^2+}} + CH2(COOH)2 + 5 H+ &-> BrCH(COOH)2 + 4 \textcolor{blue}{\ce {Fe^3+}} + 3 H2O}\\
+\ce {4 \textcolor{blue}{\ce {Fe^3+}} + BrCH(COOH)2 + 2 H2O &-> Br- + 4 \textcolor{red}{\ce {Fe^2+}} + HCOOH + 2 CO2 + 5 H+}\\
+\ce {CH2(COOH)2 + 6 \textcolor{blue}{\ce {Fe^3+}} + 2 H2O &-> 6 \textcolor{red}{\ce {Fe^2+}} + HCOOH + 2 CO2 + 6 H+}\\
+\ce {3 BrO3^- + 5 CH2(COOH)2 + 3 H+ &-> 3 BrCH(COOH)2 + 2 HCOOH + 4 CO2 + 5 H2O}
+\large
+\end{align}
+\large
 \end{frame}
 
 
@@ -237,7 +254,7 @@ Wave \# & t, s & E, mV & x, mm & v, $\upmu$m/s \\
 \begin{frame}
 	\frametitle{Acknowledgements}
 	\centering
-	Szilárd Szili, Chemistry BSc.
+	Most of the experiments were performed by my first supervised student, \textbf{Szilárd Szili} (Chemistry BSc.).
 \end{frame}
 
 \begin{frame}
